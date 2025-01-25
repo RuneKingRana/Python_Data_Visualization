@@ -1,3 +1,4 @@
+# To run this code at first go to link "https://www.kaggle.com/code/harshalbhamare/us-accident-eda" and download the file "US_Accidents_Dec21_updated.csv"
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
