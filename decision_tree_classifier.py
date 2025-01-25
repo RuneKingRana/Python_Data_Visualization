@@ -1,4 +1,4 @@
-# Import necessary libraries
+# To run this code at first go to link "https://archive.ics.uci.edu/dataset/222/bank+marketing" and download the file "bank-full.csv"
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier, plot_tree
